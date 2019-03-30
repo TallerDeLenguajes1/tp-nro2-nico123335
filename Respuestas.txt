@@ -1,0 +1,2 @@
+No se puede ver el archivo tp2_1_2.cpp que estaba en la rama opcion_2, ya que estamos trabajando en versiones distinta.
+Asi poder trabajar sin cambiar el master y no interferir con el programa principal.
